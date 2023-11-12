@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [Introduce-Site](https://bouncy-impulse-4d7.notion.site/f45af81deb0d47f6abea7abda6412752?pvs=4)
+- [Introduce-Site](https://faithmo.notion.site/f45af81deb0d47f6abea7abda6412752?pvs=4)
 - My Resume
   <a href="https://github.com/MoSangIl/portfolio/files/7574218/resume.pdf">
   <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
