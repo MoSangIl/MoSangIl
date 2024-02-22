@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/MoSangIl/portfolio/files/7574218/resume.pdf">
   <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
-- [My Blog](https://www.faithmo.xyz)
+<!-- - [My Blog](https://www.faithmo.xyz) -->
 - 📫 How to reach me: msi2breakout@gmail.com
